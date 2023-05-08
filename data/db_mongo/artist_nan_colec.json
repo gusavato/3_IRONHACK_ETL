@@ -1,0 +1,9504 @@
+[{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148e6"
+  },
+  "Grupos": "Morgan (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148e7"
+  },
+  "Grupos": "Marwa Belhaj Youssef",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148e8"
+  },
+  "Grupos": "THUMPER (IRE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148e9"
+  },
+  "Grupos": "SIMONA (BCN)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148ea"
+  },
+  "Grupos": "MAREIKE BAUTZ",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148eb"
+  },
+  "Grupos": "Tarzsa",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148ec"
+  },
+  "Grupos": "Menta (MAD)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148ed"
+  },
+  "Grupos": "Gee Lane",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148ee"
+  },
+  "Grupos": "Yas Reven",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148ef"
+  },
+  "Grupos": "Drag Syndrome",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f0"
+  },
+  "Grupos": "Mayorga (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f1"
+  },
+  "Grupos": "Uche Yara",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f2"
+  },
+  "Grupos": "Barrens_Official",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f3"
+  },
+  "Grupos": "NONE SOUNDS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f4"
+  },
+  "Grupos": "Tesa (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f5"
+  },
+  "Grupos": "Eclair Fifi",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f6"
+  },
+  "Grupos": "Zazu (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f7"
+  },
+  "Grupos": "Juju (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f8"
+  },
+  "Grupos": "kyay pamyu pamyu",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148f9"
+  },
+  "Grupos": "winnterzuko & Realo",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148fa"
+  },
+  "Grupos": "tortuganonima",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148fb"
+  },
+  "Grupos": "Heléna Star",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148fc"
+  },
+  "Grupos": "Toman music",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148fd"
+  },
+  "Grupos": "Nadia Álvarez",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148fe"
+  },
+  "Grupos": "Mora (PR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b148ff"
+  },
+  "Grupos": "Sor",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14900"
+  },
+  "Grupos": "PANDORA (SWE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14901"
+  },
+  "Grupos": "Schoonebeek (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14902"
+  },
+  "Grupos": "Albany (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14903"
+  },
+  "Grupos": "Frigya (Imed Alibi & Khalil Epi)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14904"
+  },
+  "Grupos": "Dr. Phunk",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14905"
+  },
+  "Grupos": "Rorro (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14906"
+  },
+  "Grupos": "NCT (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14907"
+  },
+  "Grupos": "The Jordan (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14908"
+  },
+  "Grupos": "Parasital Existence",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14909"
+  },
+  "Grupos": "The Kid LAROI.",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1490a"
+  },
+  "Grupos": "Baruk Khazad",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1490b"
+  },
+  "Grupos": "OM UNIT LIVE",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1490c"
+  },
+  "Grupos": "Fabio",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1490d"
+  },
+  "Grupos": "Wasted Youth UK",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1490e"
+  },
+  "Grupos": "Dr. Rubinstein",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1490f"
+  },
+  "Grupos": "Hyas b2b Mimi",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14910"
+  },
+  "Grupos": "The 1914",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14911"
+  },
+  "Grupos": "EREZ (DJ Set)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14912"
+  },
+  "Grupos": "Groots Met Een Zachte G",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14913"
+  },
+  "Grupos": "L'Impératrice",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14914"
+  },
+  "Grupos": "Karla Lynch",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14915"
+  },
+  "Grupos": "PEPE:VICIO",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14916"
+  },
+  "Grupos": "Lauren Hansom",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14917"
+  },
+  "Grupos": "Pepita (BR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14918"
+  },
+  "Grupos": "Ogazón",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14919"
+  },
+  "Grupos": "PACK (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1491a"
+  },
+  "Grupos": "The Alive (CA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1491b"
+  },
+  "Grupos": "PALEFACE (CH)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1491c"
+  },
+  "Grupos": "Alex Dima",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1491d"
+  },
+  "Grupos": "DJ Waxfiend",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1491e"
+  },
+  "Grupos": "Hideous (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1491f"
+  },
+  "Grupos": "folamour av",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14920"
+  },
+  "Grupos": "1914 (UA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14921"
+  },
+  "Grupos": "Teknoclash (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14922"
+  },
+  "Grupos": "SONS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14923"
+  },
+  "Grupos": "OK Williams",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14924"
+  },
+  "Grupos": "DJ Harman B",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14925"
+  },
+  "Grupos": "Jalen N'Gonda",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14926"
+  },
+  "Grupos": "Roisin O",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14927"
+  },
+  "Grupos": "CAROLA (BR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14928"
+  },
+  "Grupos": "Alan Mcgee Dj Set",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14929"
+  },
+  "Grupos": "Ninhodelosrecaos",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1492a"
+  },
+  "Grupos": "forests (sg)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1492b"
+  },
+  "Grupos": "Polaris (AUS)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1492c"
+  },
+  "Grupos": "Juicy Bae.",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1492d"
+  },
+  "Grupos": "Dax J b2b Umwelt",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1492e"
+  },
+  "Grupos": "La Maravillosa Orquesta del Alcohol (La MODA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1492f"
+  },
+  "Grupos": "Cami Laye Okun",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14930"
+  },
+  "Grupos": "Shapeless (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14931"
+  },
+  "Grupos": "Wisin y Yandel",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14932"
+  },
+  "Grupos": "ThtGrl",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14933"
+  },
+  "Grupos": "Miley Serious",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14934"
+  },
+  "Grupos": "Other Half (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14935"
+  },
+  "Grupos": "The Scratch (IRE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14936"
+  },
+  "Grupos": "Two Ex",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14937"
+  },
+  "Grupos": "Solár",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14938"
+  },
+  "Grupos": "the overtunes",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14939"
+  },
+  "Grupos": "Joe Claussell",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1493a"
+  },
+  "Grupos": "Jan Koster",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1493b"
+  },
+  "Grupos": "Chor für Menschen die nicht singen können",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1493c"
+  },
+  "Grupos": "Promesses",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1493d"
+  },
+  "Grupos": "B Jones (Ibiza)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1493e"
+  },
+  "Grupos": "kevin (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1493f"
+  },
+  "Grupos": "Craig David's TS5",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14940"
+  },
+  "Grupos": "Celeste (FR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14941"
+  },
+  "Grupos": "Gowtu Soundsystem",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14942"
+  },
+  "Grupos": "Kirou Kirou",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14943"
+  },
+  "Grupos": "Cardopusher / Safety Trance",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14944"
+  },
+  "Grupos": "Bastienne",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14945"
+  },
+  "Grupos": "J's Company",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14946"
+  },
+  "Grupos": "Coaches In Trouble",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14947"
+  },
+  "Grupos": "VTSS B2B LSDXOXO",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14948"
+  },
+  "Grupos": "Chef'Special",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14949"
+  },
+  "Grupos": "Danny Bond (BR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1494a"
+  },
+  "Grupos": "The Native (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1494b"
+  },
+  "Grupos": "Grove (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1494c"
+  },
+  "Grupos": "Cool Nenas",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1494d"
+  },
+  "Grupos": "Fafi Abdel Nour",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1494e"
+  },
+  "Grupos": "Gabrielle Kwarteng",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1494f"
+  },
+  "Grupos": "PIRI AND TOMMY",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14950"
+  },
+  "Grupos": "WhoMadeWho (Hybrid DJ Set)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14951"
+  },
+  "Grupos": "LIFE",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14952"
+  },
+  "Grupos": "Second(TR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14953"
+  },
+  "Grupos": "Somebody’s Child",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14954"
+  },
+  "Grupos": "Mork Gryning",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14955"
+  },
+  "Grupos": "Joëlla Jackson",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14956"
+  },
+  "Grupos": "Noah Band",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14957"
+  },
+  "Grupos": "anaïs (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14958"
+  },
+  "Grupos": "Yasmin Gardezi",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14959"
+  },
+  "Grupos": "Juliana Huxtable B2B JASSS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1495a"
+  },
+  "Grupos": "Another Taste live",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1495b"
+  },
+  "Grupos": "Reach Up Disco Wonderland Djs",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1495c"
+  },
+  "Grupos": "Fragma (AR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1495d"
+  },
+  "Grupos": "Jaz Elise (JM)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1495e"
+  },
+  "Grupos": "Crawlers (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1495f"
+  },
+  "Grupos": "Candi Station",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14960"
+  },
+  "Grupos": "Chloé b2b Ivan Smagghe",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14961"
+  },
+  "Grupos": "Līve",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14962"
+  },
+  "Grupos": "W&W",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14963"
+  },
+  "Grupos": "Bruce Springsteen & The E Street Band",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14964"
+  },
+  "Grupos": "Soffi Tukker",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14965"
+  },
+  "Grupos": "DJ Fart in the Club",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14966"
+  },
+  "Grupos": "Bønanza (CAD)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14967"
+  },
+  "Grupos": "Killin' Cactuz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14968"
+  },
+  "Grupos": "Altın Gün",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14969"
+  },
+  "Grupos": "Odezsa",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1496a"
+  },
+  "Grupos": "NILE RODGERS & CHIC",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1496b"
+  },
+  "Grupos": "Jolly Joker (Brazil)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1496c"
+  },
+  "Grupos": "elefantes y amigos",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1496d"
+  },
+  "Grupos": "FERG",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1496e"
+  },
+  "Grupos": "ill Pekeño & Ergo Pro",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1496f"
+  },
+  "Grupos": "N.O.A.H (IRL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14970"
+  },
+  "Grupos": "Callous Daoboys",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14971"
+  },
+  "Grupos": "O.R.T.I.G.A",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14972"
+  },
+  "Grupos": "Floyd Lee Band",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14973"
+  },
+  "Grupos": "Neighbourhood Weekender",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14974"
+  },
+  "Grupos": "Lies! (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14975"
+  },
+  "Grupos": "SheWolf (FR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14976"
+  },
+  "Grupos": "Lander & Adriaan",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14977"
+  },
+  "Grupos": "Odeza",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14978"
+  },
+  "Grupos": "The Medium (Nashville)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14979"
+  },
+  "Grupos": "Fred Again",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1497a"
+  },
+  "Grupos": "End (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1497b"
+  },
+  "Grupos": "White Canyon and the 5th Dimension",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1497c"
+  },
+  "Grupos": "100MODS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1497d"
+  },
+  "Grupos": "Jenni Zimnol (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1497e"
+  },
+  "Grupos": "Flore",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1497f"
+  },
+  "Grupos": "Moldy Peaches",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14980"
+  },
+  "Grupos": "LUMIÈRE (Can)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14981"
+  },
+  "Grupos": "carlcox",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14982"
+  },
+  "Grupos": "Jonnata Doll & Os Garotos Solventes",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14983"
+  },
+  "Grupos": "Axel Boman (Live)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14984"
+  },
+  "Grupos": "P2P [P.Vanillaboy",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14985"
+  },
+  "Grupos": "Mr G",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14986"
+  },
+  "Grupos": "Bounty x Cocoa",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14987"
+  },
+  "Grupos": "Wooden Wisdom",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14988"
+  },
+  "Grupos": "L'Âme Immortelle",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14989"
+  },
+  "Grupos": "Naima Frank",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1498a"
+  },
+  "Grupos": "SNO",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1498b"
+  },
+  "Grupos": "Novelists (FR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1498c"
+  },
+  "Grupos": "Honeyboys (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1498d"
+  },
+  "Grupos": "LOOF (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1498e"
+  },
+  "Grupos": "GloUpJake",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1498f"
+  },
+  "Grupos": "Lena & Linus",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14990"
+  },
+  "Grupos": "Das Sterben",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14991"
+  },
+  "Grupos": "Used (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14992"
+  },
+  "Grupos": "Jax (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14993"
+  },
+  "Grupos": "The Nick Moss Band",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14994"
+  },
+  "Grupos": "Midland (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14995"
+  },
+  "Grupos": "Segismundo Toxicomano",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14996"
+  },
+  "Grupos": "Roc Marciano & The Alchemist",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14997"
+  },
+  "Grupos": "Spy (USA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14998"
+  },
+  "Grupos": "ECHT! (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14999"
+  },
+  "Grupos": "SIRENuk",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1499a"
+  },
+  "Grupos": "Iris Rijskamp",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1499b"
+  },
+  "Grupos": "Ruts & La Isla Music",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1499c"
+  },
+  "Grupos": "Kelsy Karter",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1499d"
+  },
+  "Grupos": "C'est Karma",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1499e"
+  },
+  "Grupos": "Recycle J",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b1499f"
+  },
+  "Grupos": "The Courteeners",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a0"
+  },
+  "Grupos": "PVA (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a1"
+  },
+  "Grupos": "LS DUNES",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a2"
+  },
+  "Grupos": "Spacer Woman",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a3"
+  },
+  "Grupos": "Gentlemens Club (United Kingdom)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a4"
+  },
+  "Grupos": "Duke Dumond",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a5"
+  },
+  "Grupos": "Phine Knipp (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a6"
+  },
+  "Grupos": "Taryn Donath Trio",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a7"
+  },
+  "Grupos": "Bunt",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a8"
+  },
+  "Grupos": "Dani Less",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149a9"
+  },
+  "Grupos": "mod (nl)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149aa"
+  },
+  "Grupos": "Willikens & Ivkovic",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ab"
+  },
+  "Grupos": "Rene Lavice",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ac"
+  },
+  "Grupos": "The Most (CT)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ad"
+  },
+  "Grupos": "Getulio Abelha",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ae"
+  },
+  "Grupos": "Los Reyes Están Muertos",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149af"
+  },
+  "Grupos": "P/NK",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b0"
+  },
+  "Grupos": "Kalte Liebe (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b1"
+  },
+  "Grupos": "FRENNA DELUXE",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b2"
+  },
+  "Grupos": "Svdden Death presents VOYD",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b3"
+  },
+  "Grupos": "The Master Musicians of Jajouka (led by Bachir Attar) Warum",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b4"
+  },
+  "Grupos": "PRSMC",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b5"
+  },
+  "Grupos": "1991 (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b6"
+  },
+  "Grupos": "The Emo Night Tour",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b7"
+  },
+  "Grupos": "DCHM",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b8"
+  },
+  "Grupos": "Loveless (CA, USA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149b9"
+  },
+  "Grupos": "Riverside (IT)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ba"
+  },
+  "Grupos": "Glockenbach (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149bb"
+  },
+  "Grupos": "Napa Valley Youth Symphony",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149bc"
+  },
+  "Grupos": "iKON(Korea)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149bd"
+  },
+  "Grupos": "Import Export (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149be"
+  },
+  "Grupos": "Tuscon (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149bf"
+  },
+  "Grupos": "Hedda Stenberg",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c0"
+  },
+  "Grupos": "This is Michael",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c1"
+  },
+  "Grupos": "Trueno.",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c2"
+  },
+  "Grupos": "Ven'nus (CAT)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c3"
+  },
+  "Grupos": "DOPPELGANG (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c4"
+  },
+  "Grupos": "_JUNO (SP)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c5"
+  },
+  "Grupos": "Reaper (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c6"
+  },
+  "Grupos": "Ernest Crusats (oficial)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c7"
+  },
+  "Grupos": "La F",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c8"
+  },
+  "Grupos": "Za!",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149c9"
+  },
+  "Grupos": "Korukos",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ca"
+  },
+  "Grupos": "Lucía Tacchetti",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149cb"
+  },
+  "Grupos": "Tampon",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149cc"
+  },
+  "Grupos": "Depressive Age (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149cd"
+  },
+  "Grupos": "Kitka, Torul",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ce"
+  },
+  "Grupos": "Jordan Villa",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149cf"
+  },
+  "Grupos": "Feridun Duzagac",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d0"
+  },
+  "Grupos": "SCHIZOPHRENIA (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d1"
+  },
+  "Grupos": "Happy Feelings (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d2"
+  },
+  "Grupos": "De Simba a Kiara: El tribut al Rei Lleó",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d3"
+  },
+  "Grupos": "Pentáculo Místico",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d4"
+  },
+  "Grupos": "Adi-J",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d5"
+  },
+  "Grupos": "Silly Boy Blue (PT)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d6"
+  },
+  "Grupos": "DJ Doowap",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d7"
+  },
+  "Grupos": "Mono & Nikitaman",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d8"
+  },
+  "Grupos": "Le Motel b2b Clara!",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149d9"
+  },
+  "Grupos": "MARCH (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149da"
+  },
+  "Grupos": "Mara",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149db"
+  },
+  "Grupos": "EABS meets Jaubi",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149dc"
+  },
+  "Grupos": "Santi & Tugce",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149dd"
+  },
+  "Grupos": "Bring Me Horizon",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149de"
+  },
+  "Grupos": "Almir Serra",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149df"
+  },
+  "Grupos": "ANNA (BR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e0"
+  },
+  "Grupos": "Blue Hour (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e1"
+  },
+  "Grupos": "tsha live",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e2"
+  },
+  "Grupos": "Flint & Figure (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e3"
+  },
+  "Grupos": "Bst Hyde Park",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e4"
+  },
+  "Grupos": "Israel Fernández y Diego del Morao",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e5"
+  },
+  "Grupos": "Angel Du$t (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e6"
+  },
+  "Grupos": "Bear",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e7"
+  },
+  "Grupos": "Kiasmos (DJ Set)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e8"
+  },
+  "Grupos": "Buganvilia",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149e9"
+  },
+  "Grupos": "BMR (MX)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ea"
+  },
+  "Grupos": "Zsá Zsá (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149eb"
+  },
+  "Grupos": "Automatic (band)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ec"
+  },
+  "Grupos": "C,p",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ed"
+  },
+  "Grupos": "Ira! (BR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ee"
+  },
+  "Grupos": "Protoje & The Indiggnation",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ef"
+  },
+  "Grupos": "Daria Kolosova",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f0"
+  },
+  "Grupos": "Cupido (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f1"
+  },
+  "Grupos": "Gordon City",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f2"
+  },
+  "Grupos": "Maddie Maia B2B Tottie",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f3"
+  },
+  "Grupos": "DYLAN (uk)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f4"
+  },
+  "Grupos": "Kitka (SWE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f5"
+  },
+  "Grupos": "Vel",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f6"
+  },
+  "Grupos": "Yuy",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f7"
+  },
+  "Grupos": "Ditz (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f8"
+  },
+  "Grupos": "Unity TX",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149f9"
+  },
+  "Grupos": "V O E (dnb)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149fa"
+  },
+  "Grupos": "D'masiv",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149fb"
+  },
+  "Grupos": "KOYO (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149fc"
+  },
+  "Grupos": "Shellac",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149fd"
+  },
+  "Grupos": "We Are Not Djs",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149fe"
+  },
+  "Grupos": "ferrari rot",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b149ff"
+  },
+  "Grupos": "MIGHT (Earth)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a00"
+  },
+  "Grupos": "Gioli & Assia",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a01"
+  },
+  "Grupos": "The Barkells",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a02"
+  },
+  "Grupos": "The Warning Band",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a03"
+  },
+  "Grupos": "SKAAR (NO)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a04"
+  },
+  "Grupos": "Blvck Crowz (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a05"
+  },
+  "Grupos": "Isyana Sarasvati (ID)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a06"
+  },
+  "Grupos": "The Guru Guru (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a07"
+  },
+  "Grupos": "N'famady Kouyaté",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a08"
+  },
+  "Grupos": "Andy Luff",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a09"
+  },
+  "Grupos": "Barry B",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a0a"
+  },
+  "Grupos": "Tennesse Jet",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a0b"
+  },
+  "Grupos": "NAUT (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a0c"
+  },
+  "Grupos": "Nico Jansen (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a0d"
+  },
+  "Grupos": "Kaolila",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a0e"
+  },
+  "Grupos": "Sizing",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a0f"
+  },
+  "Grupos": "Steve'n'Seagulls",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a10"
+  },
+  "Grupos": "Harm's Way",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a11"
+  },
+  "Grupos": "Cemiyette Pisiyorum",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a12"
+  },
+  "Grupos": "Alvaro Díaz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a13"
+  },
+  "Grupos": "La Duendeneta",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a14"
+  },
+  "Grupos": "Fleetmac Wood",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a15"
+  },
+  "Grupos": "L’Homme Seul",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a16"
+  },
+  "Grupos": "ClockClock (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a17"
+  },
+  "Grupos": "Stanleys (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a18"
+  },
+  "Grupos": "Radeloos///Ziedend",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a19"
+  },
+  "Grupos": "Ana Isabella",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a1a"
+  },
+  "Grupos": "H09909",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a1b"
+  },
+  "Grupos": "AYS dj set",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a1c"
+  },
+  "Grupos": "Ange",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a1d"
+  },
+  "Grupos": "Dangermami",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a1e"
+  },
+  "Grupos": "Nessym",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a1f"
+  },
+  "Grupos": "Ben UFO",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a20"
+  },
+  "Grupos": "Iván Ferreiro",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a21"
+  },
+  "Grupos": "Chemical Brothers",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a22"
+  },
+  "Grupos": "Panda Bear & Sonic Boom",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a23"
+  },
+  "Grupos": "Ters (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a24"
+  },
+  "Grupos": "Craig David Presents TS5",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a25"
+  },
+  "Grupos": "Death & Legacy",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a26"
+  },
+  "Grupos": "!!! (Chk Chk Chk)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a27"
+  },
+  "Grupos": "DIESEL (SHAQUILLE O'NEAL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a28"
+  },
+  "Grupos": "DJ WEF",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a29"
+  },
+  "Grupos": "SZA Calvin Harris",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a2a"
+  },
+  "Grupos": "Speed (AUS)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a2b"
+  },
+  "Grupos": "Fiesta Macumba",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a2c"
+  },
+  "Grupos": "MICHELLE NYC",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a2d"
+  },
+  "Grupos": "Surf 2 Glory",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a2e"
+  },
+  "Grupos": "ÂME (LIVE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a2f"
+  },
+  "Grupos": "Lucas Santana 5tet",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a30"
+  },
+  "Grupos": "Mi-ke",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a31"
+  },
+  "Grupos": "Daoiri Farrell",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a32"
+  },
+  "Grupos": "L'Beel",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a33"
+  },
+  "Grupos": "CRAWLERS (ENGLAND)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a34"
+  },
+  "Grupos": "Polygon (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a35"
+  },
+  "Grupos": "Between You and Me",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a36"
+  },
+  "Grupos": "toy tonics",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a37"
+  },
+  "Grupos": "Flor Amargo (Mex)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a38"
+  },
+  "Grupos": "Triangulo de Amor Bizarro",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a39"
+  },
+  "Grupos": "Batrider",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a3a"
+  },
+  "Grupos": "SPFDJ",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a3b"
+  },
+  "Grupos": "86TVs",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a3c"
+  },
+  "Grupos": "Cupido Dani",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a3d"
+  },
+  "Grupos": "L'entourloop",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a3e"
+  },
+  "Grupos": "Generation Sex",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a3f"
+  },
+  "Grupos": "Sienna (Spain)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a40"
+  },
+  "Grupos": "Yungfya",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a41"
+  },
+  "Grupos": "Zeal and Ardor",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a42"
+  },
+  "Grupos": "L'officina Della Camomilla",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a43"
+  },
+  "Grupos": "MDSM",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a44"
+  },
+  "Grupos": "Oded Tzur Quartet",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a45"
+  },
+  "Grupos": "Jamie Tiller",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a46"
+  },
+  "Grupos": "Delafé y las Flores Azules",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a47"
+  },
+  "Grupos": "Reyn",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a48"
+  },
+  "Grupos": "Moodoid",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a49"
+  },
+  "Grupos": "Method (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a4a"
+  },
+  "Grupos": ".VRIL & RØDHÅD",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a4b"
+  },
+  "Grupos": "Chase & Status (DJ Set)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a4c"
+  },
+  "Grupos": "Fresquito y Mango",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a4d"
+  },
+  "Grupos": "Left Bank Punk Rock",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a4e"
+  },
+  "Grupos": "31fam_",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a4f"
+  },
+  "Grupos": "maeckes & die katastrophen",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a50"
+  },
+  "Grupos": "Myles Manly",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a51"
+  },
+  "Grupos": "AXMO (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a52"
+  },
+  "Grupos": "GPF - Greazy Puzzy Fuckerz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a53"
+  },
+  "Grupos": "Weakend Friends",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a54"
+  },
+  "Grupos": "Shannen SP B2B Joe Cotch",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a55"
+  },
+  "Grupos": "-M-",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a56"
+  },
+  "Grupos": "Nialler 9",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a57"
+  },
+  "Grupos": "Sektor & Subsequent",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a58"
+  },
+  "Grupos": "Ten56",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a59"
+  },
+  "Grupos": "KEVIN & THE ANIMALS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a5a"
+  },
+  "Grupos": "Carlota Flaneur",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a5b"
+  },
+  "Grupos": "tongue in the mind",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a5c"
+  },
+  "Grupos": "DJ TRAPELLA",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a5d"
+  },
+  "Grupos": "Fiesta Macumba Soundsystem",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a5e"
+  },
+  "Grupos": "K-MOTIONZ",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a5f"
+  },
+  "Grupos": "Frank Turner & The Sleeping Souls",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a60"
+  },
+  "Grupos": "The Balls (AUS)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a61"
+  },
+  "Grupos": "ATTI",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a62"
+  },
+  "Grupos": "Brodas Bross",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a63"
+  },
+  "Grupos": "Wednesday Wooden Wisdom",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a64"
+  },
+  "Grupos": "Sektacore",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a65"
+  },
+  "Grupos": "Dx",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a66"
+  },
+  "Grupos": "Ken Car$on",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a67"
+  },
+  "Grupos": "INSITEMUSIC",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a68"
+  },
+  "Grupos": "Sosa",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a69"
+  },
+  "Grupos": "VV / VILLE VALO",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a6a"
+  },
+  "Grupos": "St. Paul and The Broken Bones",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a6b"
+  },
+  "Grupos": "Cali",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a6c"
+  },
+  "Grupos": "Charlotte Adigéry & Bolis Pupul",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a6d"
+  },
+  "Grupos": "Rick Estrin And The Nightcats",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a6e"
+  },
+  "Grupos": "İnstagram : fatinigga",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a6f"
+  },
+  "Grupos": "princejaguar",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a70"
+  },
+  "Grupos": "WESSELSKY",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a71"
+  },
+  "Grupos": "The Blackout (reunion)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a72"
+  },
+  "Grupos": "Catalina Grande Piñon Pequeño",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a73"
+  },
+  "Grupos": "miranda (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a74"
+  },
+  "Grupos": "SECOSECOSECO",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a75"
+  },
+  "Grupos": "Tomi Bastias",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a76"
+  },
+  "Grupos": "Seun Kuti & Egypt 80",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a77"
+  },
+  "Grupos": "Bastion (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a78"
+  },
+  "Grupos": "Maldita Vecindad",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a79"
+  },
+  "Grupos": "seeyouspacecowboy",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a7a"
+  },
+  "Grupos": "Elvin Bishop's Big Fun Trio",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a7b"
+  },
+  "Grupos": "Chór Vážskych Muzikantov",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a7c"
+  },
+  "Grupos": "T & Sugah",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a7d"
+  },
+  "Grupos": "Flyleaf with Lacy Strum",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a7e"
+  },
+  "Grupos": "The K. (BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a7f"
+  },
+  "Grupos": "Dylan Dylan",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a80"
+  },
+  "Grupos": "HOFE X 4:40",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a81"
+  },
+  "Grupos": "Joy Hotel",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a82"
+  },
+  "Grupos": "Mariona Escoda",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a83"
+  },
+  "Grupos": "Julieta (CAT)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a84"
+  },
+  "Grupos": "Moenia",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a85"
+  },
+  "Grupos": "Traxx Dj",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a86"
+  },
+  "Grupos": "DREAM STATE (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a87"
+  },
+  "Grupos": "TWIN (BCN)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a88"
+  },
+  "Grupos": "Thompson Twins' Tom Bailey",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a89"
+  },
+  "Grupos": "Sarah Will",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a8a"
+  },
+  "Grupos": "Jungle (DJ Set)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a8b"
+  },
+  "Grupos": "Compro Oro (ES)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a8c"
+  },
+  "Grupos": "Lvpica",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a8d"
+  },
+  "Grupos": "DROPiXX (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a8e"
+  },
+  "Grupos": "Go_A (UA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a8f"
+  },
+  "Grupos": "Σtella (GR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a90"
+  },
+  "Grupos": "O. (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a91"
+  },
+  "Grupos": "Main",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a92"
+  },
+  "Grupos": "King Doudou b2b Izen",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a93"
+  },
+  "Grupos": "Chica Gang",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a94"
+  },
+  "Grupos": "Ceyda Yagiz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a95"
+  },
+  "Grupos": "blesse",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a96"
+  },
+  "Grupos": "bassinthegrass",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a97"
+  },
+  "Grupos": "Lifelong (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a98"
+  },
+  "Grupos": "Mira Mira",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a99"
+  },
+  "Grupos": "goddard (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a9a"
+  },
+  "Grupos": "Populi (QC)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a9b"
+  },
+  "Grupos": "Daniel Me Estás Matando",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a9c"
+  },
+  "Grupos": "Meg",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a9d"
+  },
+  "Grupos": "Habibi Funk",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a9e"
+  },
+  "Grupos": "Luke Una",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14a9f"
+  },
+  "Grupos": "tana (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa0"
+  },
+  "Grupos": "Furie Soundsystem",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa1"
+  },
+  "Grupos": "Overthrone (UK)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa2"
+  },
+  "Grupos": "Job Jobse",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa3"
+  },
+  "Grupos": "gurriers (IE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa4"
+  },
+  "Grupos": "Pascal moscheni",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa5"
+  },
+  "Grupos": "Principe Valiante",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa6"
+  },
+  "Grupos": "Operator21",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa7"
+  },
+  "Grupos": "Kottgrottorna",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa8"
+  },
+  "Grupos": "Hiraeth(BE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aa9"
+  },
+  "Grupos": "Música Instrumental",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aaa"
+  },
+  "Grupos": "Lasse Lambretta",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aab"
+  },
+  "Grupos": "Astra Club (DJ Tennis – Carlita)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aac"
+  },
+  "Grupos": "Drums and Chants",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aad"
+  },
+  "Grupos": "Dehna",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aae"
+  },
+  "Grupos": "Gypsy Moths",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aaf"
+  },
+  "Grupos": "FLØRE (Official)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab0"
+  },
+  "Grupos": "Peach (DJ)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab1"
+  },
+  "Grupos": "Ace Lossy",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab2"
+  },
+  "Grupos": "Zeze Di Camargo",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab3"
+  },
+  "Grupos": "Cem",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab4"
+  },
+  "Grupos": "Taryn Donath",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab5"
+  },
+  "Grupos": "Biga Ranx",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab6"
+  },
+  "Grupos": "The Rose (더 로즈)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab7"
+  },
+  "Grupos": "Avalon Emerson & The Charm",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab8"
+  },
+  "Grupos": "VanguardOfficial",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ab9"
+  },
+  "Grupos": "Topic (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aba"
+  },
+  "Grupos": "When Young",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14abb"
+  },
+  "Grupos": "SYNERGYSNRG",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14abc"
+  },
+  "Grupos": "orbit (live)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14abd"
+  },
+  "Grupos": "MarsO10C",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14abe"
+  },
+  "Grupos": "N-Vitral (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14abf"
+  },
+  "Grupos": "Hewan Aman",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac0"
+  },
+  "Grupos": "The Ashley Henry Trio",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac1"
+  },
+  "Grupos": "Peter Hook & The Light",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac2"
+  },
+  "Grupos": "Loveless (NO)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac3"
+  },
+  "Grupos": "Ostblockschlampen / Eastblock Bitches / OBS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac4"
+  },
+  "Grupos": "lestxd",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac5"
+  },
+  "Grupos": "Juan Luis Guerra Y 4.40",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac6"
+  },
+  "Grupos": "Mc Yallah & Debmaster",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac7"
+  },
+  "Grupos": "Paul Heaton & Jacqui Abbott",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac8"
+  },
+  "Grupos": "Silvia Pérez Cruz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ac9"
+  },
+  "Grupos": "Chloe Caillet",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aca"
+  },
+  "Grupos": "Sept",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14acb"
+  },
+  "Grupos": "Low life (AUS)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14acc"
+  },
+  "Grupos": "Blackbird (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14acd"
+  },
+  "Grupos": "Lal'Ba",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ace"
+  },
+  "Grupos": "nothing, nowhere.",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14acf"
+  },
+  "Grupos": "Symba (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad0"
+  },
+  "Grupos": "Voilaaa Soundsystem",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad1"
+  },
+  "Grupos": "Christian Lofffler",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad2"
+  },
+  "Grupos": "Bugge Wesseltoft & Henrik Schwarz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad3"
+  },
+  "Grupos": "S Club",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad4"
+  },
+  "Grupos": "Oscar & the Wolf",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad5"
+  },
+  "Grupos": "Anderson",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad6"
+  },
+  "Grupos": "Guilt Trip (US)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad7"
+  },
+  "Grupos": "SALÒ",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad8"
+  },
+  "Grupos": "Stakhan",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ad9"
+  },
+  "Grupos": "LENI (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ada"
+  },
+  "Grupos": "Calva Y Nada",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14adb"
+  },
+  "Grupos": "Ultimo Tango",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14adc"
+  },
+  "Grupos": "AMORE (esp)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14add"
+  },
+  "Grupos": "Jane Fitz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ade"
+  },
+  "Grupos": "Sur16",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14adf"
+  },
+  "Grupos": "Tim & The Glory Boys",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae0"
+  },
+  "Grupos": "odcrocks",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae1"
+  },
+  "Grupos": "Pruillip",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae2"
+  },
+  "Grupos": "Hot Breath and Ström",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae3"
+  },
+  "Grupos": "Tommy Castro & The Painkillers",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae4"
+  },
+  "Grupos": "Rhyw Live",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae5"
+  },
+  "Grupos": "Silverado Pickups",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae6"
+  },
+  "Grupos": "Perro",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae7"
+  },
+  "Grupos": "NUESTRAOTRAVIDAALTERNA",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae8"
+  },
+  "Grupos": "Stone",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14ae9"
+  },
+  "Grupos": "Oriana B2B Melina Serser",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aea"
+  },
+  "Grupos": "Paper Tigers (USA)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aeb"
+  },
+  "Grupos": "Maségo",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aec"
+  },
+  "Grupos": "Emilia Mernes",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aed"
+  },
+  "Grupos": "Rude",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aee"
+  },
+  "Grupos": "HE.SHE.THEY.",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aef"
+  },
+  "Grupos": "La Sra Tomasa",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af0"
+  },
+  "Grupos": "Come",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af1"
+  },
+  "Grupos": "H. E. A. T",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af2"
+  },
+  "Grupos": "KYTES (GER)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af3"
+  },
+  "Grupos": "Nicola Mazzetti",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af4"
+  },
+  "Grupos": "Nicolas Lutz",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af5"
+  },
+  "Grupos": "Malice (IT)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af6"
+  },
+  "Grupos": "Extinction Ad",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af7"
+  },
+  "Grupos": "Taj Mahal & The Phantom Blues Band",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af8"
+  },
+  "Grupos": "Yago o Próprio",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14af9"
+  },
+  "Grupos": "Topanga Kiddo",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14afa"
+  },
+  "Grupos": "Lazuli (FR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14afb"
+  },
+  "Grupos": "Knife (GER)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14afc"
+  },
+  "Grupos": "gladde paling (NL)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14afd"
+  },
+  "Grupos": "Maureen (FR)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14afe"
+  },
+  "Grupos": "Division Minuscula",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14aff"
+  },
+  "Grupos": "Los Sara Fontán",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b00"
+  },
+  "Grupos": "Reaper (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b01"
+  },
+  "Grupos": "CONNY (DE)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b02"
+  },
+  "Grupos": "DJ Moxie",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b03"
+  },
+  "Grupos": "DJ Paul Elstak",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b04"
+  },
+  "Grupos": "Lens (DnB)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b05"
+  },
+  "Grupos": "Irene Dresel",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b06"
+  },
+  "Grupos": "Tara-Louise Wittwer",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b07"
+  },
+  "Grupos": "Kublai Khan",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b08"
+  },
+  "Grupos": "Born Of Osiriss",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b09"
+  },
+  "Grupos": "Pendulum (DJ Set)",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b0a"
+  },
+  "Grupos": "Toukan Toukan",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b0b"
+  },
+  "Grupos": "Louis Romeo",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b0c"
+  },
+  "Grupos": "Riana Marcos",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b0d"
+  },
+  "Grupos": "Karl Denson's Tiny Universe",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b0e"
+  },
+  "Grupos": "Joe Crepusculo",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b0f"
+  },
+  "Grupos": "d'jenks",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b10"
+  },
+  "Grupos": "VXYX",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b11"
+  },
+  "Grupos": "Harleigh Colt (DJ Set) of Rainbow Kitten Surprise HoneyLuv",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b12"
+  },
+  "Grupos": "Jamz Supernova",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b13"
+  },
+  "Grupos": "STOR",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+},{
+  "_id": {
+    "$oid": "64595e5cf31e750c10b14b14"
+  },
+  "Grupos": "MARJA DE SANCTIS",
+  "external_urls": null,
+  "followers": null,
+  "genres": null,
+  "href": null,
+  "id": null,
+  "images": null,
+  "name": null,
+  "popularity": {
+    "$numberDouble": "NaN"
+  },
+  "type": null,
+  "uri": null
+}]
